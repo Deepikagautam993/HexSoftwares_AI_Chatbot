@@ -73,6 +73,14 @@ Through this project, I learned:
 
 ---
 
+## 📸 Screenshots
+
+Here is the output of the AI Chatbot application:
+
+![Chatbot Output](png/chatbot_output.png)
+
+---
+
 ## 👩‍💻 Author
 
 **Deepika Gautam**
