@@ -1,0 +1,8 @@
+You: Hii
+Bot: Sorry, I don't understand.
+You: date ?
+Bot: Sorry, I don't understand.
+You: date
+Bot: Today's date: 08-04-2026
+You: time
+Bot: Current time: 16:48:06
